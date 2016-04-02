@@ -1,0 +1,8 @@
+{
+	"nativescript": {
+		"id": "org.nativescript.portypi"
+	},
+	"dependencies": {
+		"tns-core-modules": "1.7.1"
+	}
+}
